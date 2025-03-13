@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "Markdown Card Maker",
+    "description": "Convert Markdown to beautiful social media cards",
+    "theme": "Theme",
+    "zoom": "Zoom"
+  },
+  "editor": {
+    "title": "Editor",
+    "preview": "Preview",
+    "copy": "Copy",
+    "export": "Export"
+  },
+  "card": {
+    "preview": "Card Preview",
+    "background": "Background",
+    "text": "Text"
+  },
+  "export": {
+    "title": "Export Card",
+    "customize": "Customize your export settings before downloading.",
+    "format": "Format",
+    "settings": "Settings",
+    "preview": "Preview",
+    "fileName": "File Name",
+    "quality": "Quality",
+    "higher": "Higher is better",
+    "scale": "Scale",
+    "higher_scale": "Higher for larger images",
+    "includeBackground": "Include Background",
+    "noTransparency": "JPEG doesn't support transparency",
+    "transparency": "Turn off for transparent background",
+    "generating": "Generating preview...",
+    "error": "Failed to generate preview. Try a different format or settings.",
+    "tryAgain": "Try Again",
+    "previewDesc": "This is a preview. The exported image will be full quality.",
+    "generatePreview": "Click the button below to generate a preview",
+    "generate": "Generate Preview",
+    "download": "Download",
+    "copyClipboard": "Copy to Clipboard",
+    "success": "Card exported as {format}",
+    "failed": "Failed to export image"
+  },
+  "defaultMarkdown": "# MD Card Maker\n\n> A simple tool to convert Markdown to beautiful social media cards\n\n![](https://picsum.photos/600/300)\n\n## Features\n\n1. **Markdown Support** - Write with *styling* and **formatting**\n2. Multiple themes available\n3. Customize with different styles \n4. Export as PNG images\n5. Easy to use\n\n---\n\nMade with ❤️ by Card Maker",
+  "language": "Language",
+  "langNames": {
+    "en": "English",
+    "zh": "中文",
+    "ja": "日本語"
+  }
+}

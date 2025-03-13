@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "Markdown カードメーカー",
+    "description": "Markdown を美しいソーシャルメディアカードに変換",
+    "theme": "テーマ",
+    "zoom": "ズーム"
+  },
+  "editor": {
+    "title": "エディター",
+    "preview": "プレビュー",
+    "copy": "コピー",
+    "export": "エクスポート"
+  },
+  "card": {
+    "preview": "カードプレビュー",
+    "background": "背景",
+    "text": "テキスト"
+  },
+  "export": {
+    "title": "カードをエクスポート",
+    "customize": "ダウンロード前にエクスポート設定をカスタマイズします。",
+    "format": "フォーマット",
+    "settings": "設定",
+    "preview": "プレビュー",
+    "fileName": "ファイル名",
+    "quality": "品質",
+    "higher": "高いほど良い",
+    "scale": "スケール",
+    "higher_scale": "高いほど大きな画像になります",
+    "includeBackground": "背景を含める",
+    "noTransparency": "JPEGは透過をサポートしていません",
+    "transparency": "オフにすると透明な背景になります",
+    "generating": "プレビューを生成中...",
+    "error": "プレビューの生成に失敗しました。別のフォーマットや設定を試してください。",
+    "tryAgain": "再試行",
+    "previewDesc": "これはプレビューです。エクスポートされる画像は完全な品質になります。",
+    "generatePreview": "下のボタンをクリックしてプレビューを生成",
+    "generate": "プレビューを生成",
+    "download": "ダウンロード",
+    "copyClipboard": "クリップボードにコピー",
+    "success": "カードを {format} 形式でエクスポートしました",
+    "failed": "画像のエクスポートに失敗しました"
+  },
+  "defaultMarkdown": "# Markdown カードメーカー\n\n> Markdown を美しいソーシャルメディアカードに変換するシンプルなツール\n\n![](https://picsum.photos/600/300)\n\n## 機能\n\n1. **Markdown サポート** - *スタイル*と**書式設定**で書く\n2. 複数のテーマが利用可能\n3. さまざまなスタイルでカスタマイズ\n4. PNG 画像としてエクスポート\n5. 使いやすい\n\n---\n\nカードメーカーが ❤️ を込めて作成",
+  "language": "言語",
+  "langNames": {
+    "en": "English",
+    "zh": "中文",
+    "ja": "日本語"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "Markdown 卡片制作器",
+    "description": "将 Markdown 转换为精美的社交媒体卡片",
+    "theme": "主题",
+    "zoom": "缩放"
+  },
+  "editor": {
+    "title": "编辑器",
+    "preview": "预览",
+    "copy": "复制",
+    "export": "导出"
+  },
+  "card": {
+    "preview": "卡片预览",
+    "background": "背景",
+    "text": "文字"
+  },
+  "export": {
+    "title": "导出卡片",
+    "customize": "在下载前自定义导出设置。",
+    "format": "格式",
+    "settings": "设置",
+    "preview": "预览",
+    "fileName": "文件名",
+    "quality": "质量",
+    "higher": "更高更好",
+    "scale": "缩放比例",
+    "higher_scale": "更高可获得更大图像",
+    "includeBackground": "包含背景",
+    "noTransparency": "JPEG 不支持透明度",
+    "transparency": "关闭则使用透明背景",
+    "generating": "正在生成预览...",
+    "error": "生成预览失败。请尝试不同的格式或设置。",
+    "tryAgain": "重试",
+    "previewDesc": "这是预览图。导出的图像将是完整质量。",
+    "generatePreview": "点击下方按钮生成预览",
+    "generate": "生成预览",
+    "download": "下载",
+    "copyClipboard": "复制到剪贴板",
+    "success": "卡片已导出为 {format}",
+    "failed": "导出图像失败"
+  },
+  "defaultMarkdown": "# Markdown 卡片制作器\n\n> 一个简单的工具，可将 Markdown 转换为精美的社交媒体卡片\n\n![](https://picsum.photos/600/300)\n\n## 功能特点\n\n1. **Markdown 支持** - 使用*样式*和**格式**进行编写\n2. 多种主题可选\n3. 自定义不同风格\n4. 导出为 PNG 图像\n5. 简单易用\n\n---\n\n由卡片制作器 ❤️ 制作",
+  "language": "语言",
+  "langNames": {
+    "en": "English",
+    "zh": "中文",
+    "ja": "日本語"
+  }
+}
