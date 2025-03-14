@@ -22,7 +22,7 @@ export default function Navbar() {
         <div className="flex items-center gap-2">
           <LanguageSelector />
           <Button variant="outline" size="icon" asChild>
-            <Link href="https://github.com" target="_blank" rel="noreferrer">
+            <Link href="https://github.com/alffei/markdown-card-maker" target="_blank" rel="noreferrer">
               <GithubIcon className="h-4 w-4" />
               <span className="sr-only">GitHub</span>
             </Link>
