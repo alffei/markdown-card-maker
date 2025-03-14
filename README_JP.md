@@ -6,7 +6,8 @@
 
 **小红书、Twitter、Instagram向けの美しいソーシャルカード作成ツール**、15以上のテーマとリアルタイムプレビュー機能
 
-![デモプレビュー](https://picsum.photos/800/400)
+![[デモプレビュー 1](./public/images/screenshots/screenshots_1.jpg)
+![[デモプレビュー 2](./public/images/screenshots/screenshots_2.jpg)
 
 - [デモ & オンラインエディタ](https://md.jingtu-tech.com)
 

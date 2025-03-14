@@ -6,7 +6,8 @@
 
 **Professional tool for creating beautiful social media cards for Xiaohongshu, Twitter, Instagram, etc.** with 15+ themes and real-time preview.
 
-![Demo Preview](https://picsum.photos/800/400)
+![[Demo Preview 1](./public/images/screenshots/screenshots_1.jpg)
+![[Demo Preview 2](./public/images/screenshots/screenshots_2.jpg)
 
 - [DEMO & Web Editor](https://md.jingtu-tech.com)
 
