@@ -1,6 +1,6 @@
 
 <div align="right">
-  [<a href="./README.md">简体中文</a>] | [<a href="./README_EN.md">English</a>] | [日本語]
+  [简体中文] | [<a href="./README_EN.md">English</a>] | [<a href="./README_JP.md">日本語</a>]
 </div>
 
 # Markdown Card Maker
